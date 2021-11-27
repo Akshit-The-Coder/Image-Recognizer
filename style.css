@@ -1,0 +1,12 @@
+body {
+  background-color: aqua;
+  color: red;
+  font-size: 21px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+#heading
+{
+    background-color: cornflowerblue;
+    color: darkblue;
+    font-family: Times ;
+}
